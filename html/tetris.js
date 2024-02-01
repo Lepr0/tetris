@@ -231,7 +231,7 @@ function drawGameOverScreen(){
     context.textAlign = "center";
     context.fillText("GameOver", canvas.width /2, canvas.height /2)
     context.font = '18px Russo One';
-    context.fillText("tetris.bsord.dev", canvas.width /2, canvas.height /1.8)
+    context.fillText("tetris.leprolab.ru", canvas.width /2, canvas.height /1.8)
     
 }
 
